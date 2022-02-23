@@ -4,7 +4,7 @@ This Weather app allows users to search for a city and retrieve the forecast for
 
 ## Deployed Link
 
-
+https://arios10.github.io/weather-dashboard/
 
 ## Links
 
